@@ -1,16 +1,12 @@
-# todo_project
-
+# Good Note v2.3.1-alpha
 A new todo app.
 
-## Getting Started
+## Good Note Core
+- Helps organizing your daily tasks
+- Optimize your time
 
-This project is a starting point for a Flutter application.
+## Warnings
+- This an alpha version (under-development, missing key features & not stable yet)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Latest updates
+- Root page added
